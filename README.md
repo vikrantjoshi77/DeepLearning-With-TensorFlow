@@ -1,14 +1,15 @@
 ### Deep Learning with TensorFlow 
 
 #### Basic Installation:
+
 If running Anaconda 4.4.0 with Python Ver 3.6 on MacOSx (Thanks to https://stackoverflow.com/users/3245212/darpan-dodiya) works for Windows as well as MacOSx
 ---
-* conda create --name tensorflow python=3.5  ( Creates a tensorflow environment with Python 3.5 version)
-* source activate tensorflow
-* conda install jupyter
-* conda install scipy
-* pip install tensorflow
-* source deactivate tensor 
+    * conda create --name tensorflow python=3.5  ( Creates a tensorflow environment with Python 3.5 version)
+    * source activate tensorflow
+    * conda install jupyter
+    * conda install scipy
+    * pip install tensorflow
+    * source deactivate tensor 
 
 Close Anaconda and relaunch and select tensorflow under the Applications On "tensorflow" on the Anaconda Navigator Window. 
 
