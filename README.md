@@ -1,4 +1,4 @@
-## Deep Learning withTensorFlow 
+## Deep Learning with TensorFlow 
 
 ### Basic Installation:
 If running Anaconda 4.4.0 with Python Ver 3.6 on MacOSx (Thanks to https://stackoverflow.com/users/3245212/darpan-dodiya) works for Windows as well as MacOSx
