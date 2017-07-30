@@ -12,7 +12,7 @@ If running Anaconda 4.4.0 with Python Ver 3.6 on MacOSx (Thanks to https://stack
 Close Anaconda and relaunch and select tensorflow under the Applications On "tensorflow" on the Anaconda Navigator Window. 
 
 
-### Basic Conda Instructions
+### Basic Conda Instructions ( https://conda.io/docs/using/envs.html)
 On the terminal window follow the instructions below to verify the current environments.
 * conda info --envs  ( or can use conda info -e )
 ---
