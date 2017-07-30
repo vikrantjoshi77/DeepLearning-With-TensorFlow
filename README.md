@@ -13,13 +13,14 @@ If running Anaconda 4.4.0 with Python Ver 3.6 on MacOSx (Thanks to https://stack
 
 Close Anaconda and relaunch and select tensorflow under the Applications On "tensorflow" on the Anaconda Navigator Window. 
 
+___
 #### Basic Conda Instructions ( https://conda.io/docs/using/envs.html)
 On the terminal window follow the instructions below to verify the current environments.
 * conda info --envs  ( or can use conda info -e )
 ---
     tensorflow            *  /Users/PAVIK/anaconda/envs/tensorflow
     root                     /Users/PAVIK/anaconda
-
+___
 #### Launching ipython notebook on MacOsx ( Instead of copying link and pasting it in browser)
 
 https://github.com/JuliaLang/IJulia.jl/issues/551
