@@ -21,3 +21,8 @@ On the terminal window follow the instructions below to verify the current envir
     root                     /Users/PAVIK/anaconda
 
 #### Launching ipython notebook on MacOsx ( Instead of copying link and pasting it in browser)
+https://github.com/JuliaLang/IJulia.jl/issues/551
+Typing at a shell prompt:
+> jupyter notebook --generate-config
+and then uncomment/edit the line of the file ~/.jupyter/jupyter_notebook_config.py (just created), into
+c.NotebookApp.browser = 'Safari' (to have Safari explicitly indicated)
