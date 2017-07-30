@@ -15,6 +15,7 @@ Close Anaconda and relaunch and select tensorflow under the Applications On "ten
 ### Basic Conda Instructions
 On the terminal window follow the instructions below to verify the current environments.
 * conda info --envs  ( or can use conda info -e )
-tensorflow            *  /Users/PAVIK/anaconda/envs/tensorflow
-root                     /Users/PAVIK/anaconda
+---
+    tensorflow            *  /Users/PAVIK/anaconda/envs/tensorflow
+    root                     /Users/PAVIK/anaconda
 
